@@ -1,4 +1,7 @@
-﻿string[]CreateArray(int size)
+
+
+
+string[]CreateArray(int size)
 {
    string[] str = new string[size];
    for (int i = 0; i < size; i++)
